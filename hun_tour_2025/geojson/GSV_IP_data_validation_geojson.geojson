@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "GSV_IP_data_validation_geojson",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4326" } },
 "features": [
 { "type": "Feature", "properties": { "POINT_ID": 49762802, "X_LAEA": "4976000,00", "Y_LAEA": "2802000,00", "X_WGS84": 18.792883087, "Y_WGS84": 47.980260871, "osm_id": "85202901", "centro_ID": 252868, "n": 1, "distance": 43.205927593119227, "feature_x": 2092014.1757823632, "feature_y": 6103571.5751693752, "nearest_x": 2092056.1551860375, "nearest_y": 6103581.7968055606, "X": 2092014.1757823632, "Y": 6103571.5751693752, "longitude": 18.792883087, "latitude": 47.980260871000006, "panorama_i": "d5cuGgSXkv7ml_Q67EzhhA" }, "geometry": { "type": "Point", "coordinates": [ 2092014.175782363163307, 6103571.575169372372329 ] } },
 { "type": "Feature", "properties": { "POINT_ID": 49802762, "X_LAEA": "4980000,00", "Y_LAEA": "2762000,00", "X_WGS84": 18.784373435, "Y_WGS84": 47.618933618, "osm_id": "60994037", "centro_ID": 191735, "n": 1, "distance": 16.128059315862206, "feature_x": 2091066.8856548949, "feature_y": 6043691.4949412923, "nearest_x": 2091081.607037026, "nearest_y": 6043684.9074375583, "X": 2091066.8856548949, "Y": 6043691.4949412923, "longitude": 18.784373434999996, "latitude": 47.618933617999993, "panorama_i": "-9VFzL7wjvKvctO8MKnPpQ" }, "geometry": { "type": "Point", "coordinates": [ 2091066.885654894635081, 6043691.494941292330623 ] } },
